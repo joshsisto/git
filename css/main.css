@@ -160,17 +160,34 @@ body {
     padding: 6px;
 }
 
+/*.git .images {*/
+/*    display: inline-block;*/
+/*    width: 10px;*/
+/*    height: 10px;*/
+/*    padding: 5px;*/
+/*}*/
+
+/*img.images {*/
+/*    display: inline-block;*/
+/*    width: 10px;*/
+/*    height: 10px;*/
+/*    padding: 5px;*/
+/*}*/
+
+html body .git #git {
+    display: table;
+    margin: auto;
+}
+
+.git #git img {
+    min-height: 20px;
+    height: 100px;
+    padding: 15px;
+}
 
 a.active {
     background-color: #000;
     color: #444;
-}
-
-.GitHub {
-    background-image: url("https://cdn-images-1.medium.com/max/1600/1*Edn_LpbSpLeNKfWkEdG2Jg.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
 }
 
 .credit {
