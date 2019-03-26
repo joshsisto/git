@@ -166,6 +166,13 @@ a.active {
     color: #444;
 }
 
+.GitHub {
+    background-image: url("https://cdn-images-1.medium.com/max/1600/1*Edn_LpbSpLeNKfWkEdG2Jg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .credit {
     color: gray();
 }
